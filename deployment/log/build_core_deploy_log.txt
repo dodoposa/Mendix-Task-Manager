@@ -1,0 +1,10 @@
+Buildfile: D:\Interview_Mendix\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 46 files to D:\Interview_Mendix\deployment
+     [copy] Copying 5 files to D:\Interview_Mendix\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

@@ -1,0 +1,57 @@
+{
+  "watchFolders": [
+    "D:/Interview_Mendix/theme",
+    "D:/Interview_Mendix/javascriptsource",
+    "D:/Interview_Mendix/themesource",
+    "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules"
+  ],
+  "resolver": {
+    "useWatchman": true,
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "sourceExts": [
+      "js",
+      "jsx",
+      "ts",
+      "tsx",
+      "cjs",
+      "mjs",
+      "json",
+      "js_commonjs-exports",
+      "js_commonjs-module"
+    ],
+    "extraNodeModules": {
+      "externalWidgets": "D:/Interview_Mendix/deployment/native/externalWidgets",
+      "@babel/runtime": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/@babel/runtime",
+      "big.js": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/big.js",
+      "react": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react",
+      "react-dom": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-dom",
+      "react-native-gesture-handler": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-gesture-handler",
+      "react-native": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native",
+      "react-native-code-push": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-code-push",
+      "react-native-device-info": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-device-info",
+      "react-native-material-menu": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-material-menu",
+      "react-navigation": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-navigation",
+      "react-navigation-drawer": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-navigation-drawer",
+      "react-navigation-stack": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-navigation-stack",
+      "react-navigation-tabs": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-navigation-tabs",
+      "react-native-svg": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-svg",
+      "react-native-tab-view": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-tab-view",
+      "react-native-vector-icons": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-vector-icons",
+      "react-native-fast-image": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-fast-image",
+      "react-native-screens": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-screens",
+      "react-native-localize": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-localize",
+      "react-native-reanimated": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-reanimated",
+      "react-native-safe-area-context": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/react-native-safe-area-context",
+      "@react-native-community/async-storage": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/@react-native-community/async-storage",
+      "@react-native-community/datetimepicker": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/@react-native-community/datetimepicker",
+      "@react-native-community/masked-view": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/@react-native-community/masked-view",
+      "eventemitter3": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/eventemitter3",
+      "mendix": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/mendix",
+      "mx-global": "D:/Mendix_9/9.11.1.40456/modeler/tools/node/node_modules/mx-global"
+    }
+  },
+  "cacheVersion": "40456"
+}
